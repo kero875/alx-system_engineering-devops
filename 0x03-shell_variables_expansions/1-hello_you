@@ -1,2 +1,3 @@
 #!/bin/bash
+alias $user="julien"
 echo "hello $user"
