@@ -1,2 +1,2 @@
 #!/bin/bash
-export PATH=$PATH:/action
+find $PATH -mindepth 1 -type d | wc -l
